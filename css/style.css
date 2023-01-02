@@ -243,6 +243,9 @@ p {
     background: #fff;
     border-radius: 20px;
 }
+.work-item img{
+    width: 100%;
+}
 
 .work-item h4 {
     font-family: 'Inter', sans-serif;
