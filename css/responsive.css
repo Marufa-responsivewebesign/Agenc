@@ -1,0 +1,269 @@
+@media (min-width: 320px) and (max-width: 575.98px) { 
+    /* NAVBER CSS START */
+    .navbar .navbar-toggler I{
+        color: #fff;
+        font-size: 30px;
+        
+    }
+    .navbar-toggler {
+        border: 1px solid #fff;
+    }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: none;
+    }
+    .navbar {
+        padding-left: 20px;
+        padding-right: 20px;
+        background: #e445dc;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-right: 0px;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar {
+        position: static;
+        
+    }
+    /* BANNER CSS START */
+    .banner-text h1 {
+        font-size: 35px;
+        
+    }
+    .banner-text p {
+        width: auto;
+        font-size: 15px;  
+    }
+    .nav-btn button {
+        padding: 15px 42px;
+        background: #458059;
+        font-size: 16px;
+       
+    }
+    #banner{
+        padding-top: 100px;
+        padding-bottom: 90px;
+    }
+    /* success css start */
+    #success {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .success-left {
+        padding-left: 0;
+        text-align: center;
+        padding-bottom: 0;
+    }
+    .success-left h4 {
+        font-size: 25px;
+       
+    }
+    .success-left p {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .success-counter-item h3 {
+        font-size: 40px;   
+    }
+    .success-counter-item p {
+        font-size: 17px;
+    }
+    /* SERVICE CSS START */
+    .common-tittle{
+        padding-bottom: 0;
+    }
+    .common-tittle h3 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .common-tittle p {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 0 10px;
+    }
+    /* SERVICE CSS START */
+    .service-item img{
+        width: 30%;
+    }
+    .service-item {
+        padding: 30px 20px 35px;
+        margin: 10px;
+    }
+    .service-item h4 {
+        font-size: 22px;
+        line-height: 15px;
+        padding-top: 25px;
+    }
+    .service-item p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    /* WORK CSS START */
+    #work {
+        padding: 45px 0;
+    }
+    .common-tittle h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .common-tittle p {
+        font-size: 13px;
+        line-height: 20px;
+        padding: 0px 10px;
+    }
+    .work-card {
+        padding-top: 40px;
+    }
+    .work-item img{
+        width: 100%;
+    }
+    .work-item{
+        margin: 0 10px;
+    }
+    .work-item h4 {
+        font-size: 18px;
+        line-height: 15px;
+        padding-top: 25px;
+    }
+    .work-item p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    /* AGENCE CSS START */
+    #agence {
+        padding: 40px 0;
+    }
+    .agence-item{
+        text-align: center;
+        padding-top: 0;
+        /* padding: 20px 0; */
+        padding-bottom: 50px;
+    }
+    .agence-tittle h3 {
+        font-size: 30px;
+        line-height: 40px;
+        padding: 0px 0px 0px;
+    }
+    .agence-tittle p {
+        font-size: 16px;
+        line-height: 22px;
+        padding: 10px;
+    }
+    .agence-details-part {
+        padding-top: 40px;
+    }
+    .agence-item h4 {
+        font-size: 22px;
+        line-height: 25px;
+        padding-top: 12px;
+        padding-bottom: 6px;
+        /* text-align: center; */
+    }
+    .agence-item p {
+        font-size: 16px;
+        line-height: 26px;
+        padding-right: 0px;
+    }
+    .agence-img{
+        text-align: center;
+    }
+    .agence-img img{
+        max-width: 90%;
+    }
+    /* REVIEW CSS START */
+    #review {
+        padding-bottom: 40px;
+    }
+    .review-box {
+        padding-top: 30px;
+    }
+    .review-item {
+        padding: 35px 16px;
+        margin: 10px;
+    }
+    /* CONTACT CSS START */
+    #contact {
+        padding: 50px 0;
+    }
+    #contact {
+        padding: 35px 0;
+    }
+    .contact-left h3 {
+        font-size: 25px;
+        line-height: 35px;
+        padding-bottom: 10px;
+        text-align: center;
+        padding-left: 20px;
+    }
+    .contact-left p span {
+        padding-bottom: 30px;
+    }
+    .contact-left p {
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+    }
+    .contact-form h3 {
+        font-size: 20px;
+        line-height: 35px;
+        padding-right: 0px;
+        padding-bottom: 10px;
+    }
+    .form-item h4 {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .form-item input {
+        width: 250px;
+        padding: 12px 18px;
+    }
+    .form-btn button {
+        padding: 10px 60px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+    /* FOOTER CSS START */
+    #footer-one {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    .footer-left {
+        text-align: center;
+    }
+    .footer-left p {
+        font-size: 15px;
+        line-height: 20px;
+        padding-top: 10px;
+        padding-right: 12px;
+        text-align: center;
+        padding-left: 25px;
+    }
+    .footer-left-one h3 {
+        padding-bottom: 10px;
+        font-size: 18px;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .footer-left-one p {
+        font-size: 14px;
+        line-height: 30px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .last-part p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .last-part {
+        padding-top: 15px;
+    }
+    #foter-two {
+        padding-bottom: 40px;
+    }
+
+ }
